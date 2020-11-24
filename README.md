@@ -6,8 +6,7 @@ This software is made to work with WeMos D1 mini and with BLIP auto power off ci
 
 Simple wiring diagram:
 
-![BLIP - Wiring diagram](images/wiring.png)
-
+![BLIP - Wiring diagram](images/blip.jpg)
 
 Photo
 
